@@ -65,7 +65,7 @@ Results-driven **Business Intelligence Analyst** with **6+ years of experience**
 
 ### 🏥 3. Centralized OPD KPI & Healthcare Analytics Dashboard
 * **Domain:** Healthcare Analytics
-* **Features:** Real-time patient arrival monitoring, appointment booking rate, HMIS capacity utilization, and specialty-wise no-show analysis.
+* **Features:** Patient arrival monitoring, appointment booking rate, HMIS capacity utilization, and specialty-wise no-show analysis..
 * **Impact:** Consolidated 300,000+ patient records into an executive view, cutting manual reporting effort by 60%.
 * **Tech Stack:** Power BI, Advanced DAX, Power Query, Star Schema Data Modeling.
 
