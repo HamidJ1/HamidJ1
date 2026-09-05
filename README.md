@@ -12,9 +12,8 @@
 Results-driven **Business Intelligence Analyst** with **6+ years of experience** transforming complex enterprise data into actionable executive insights. Specialized in building end-to-end Power BI dashboards, advanced DAX calculations, Star Schema data modeling, and automated ETL pipelines across Pharmaceutical, Healthcare, and Commercial sectors.
 
 * 📈 **Key Impact Highlights:**
-  * **ATCO Laboratories:** Developed advanced DAX solutions including Dynamic TOPN Ranking, YoY/MoY Time Intelligence, Dynamic Slicer Switching using `HASONEVALUE`/`SWITCH`, and Cumulative Totals for executive sales analytics.
-  * **Bosch Pharmaceuticals:** Developed interactive **Field Force Performance Pulse, Inventory Management, and Daily Secondary Sales dashboards** in Power BI, providing management visibility into sales achievement, field-force performance, inventory health, distributor trends, and daily secondary sales.
-  * **Bosch Pharmaceuticals:** Streamlined daily sales reporting across **128+ distributors** through data validation, transformation, reconciliation, and Power BI reporting workflows.
+  * **ATCO Laboratories:** Developed interactive Commercial Performance & Primary Sales Dashboards in Power BI on a Star Schema model with advanced DAX measures such as (Time Intelligence, Dynamic Switching, TOPN). Replaced manual Excel pivot reporting with decision-ready dashboards while managing end-to-end sales reporting, SAP institutional data reconciliation, and field-force incentive calculations..
+   * **Bosch Pharmaceuticals:** Developed interactive **Field Force Performance Pulse, Inventory Management, and Daily Secondary Sales dashboards** in Power BI, providing management visibility into sales achievement, field-force performance, inventory health, distributor trends, and daily secondary sales. Streamlined daily sales reporting across **128+ distributors** through data validation, transformation, reconciliation, and Power BI reporting workflows.
   * **Indus Hospital & Health Network:** Built centralized OPD KPI dashboards tracking **300K+ patient records**, reducing reporting time by **60%** and enabling faster management insights.
   * **K-Electric:** Processed and transformed large-scale datasets using **Power Query and SAP export workflows** to support reporting, revenue analysis, and business insights.
 ---
