@@ -73,6 +73,6 @@ Results-driven **Business Intelligence Analyst** with **6+ years of experience**
 ---
 
 ## 📬 Connect With Me
-* 💼 **LinkedIn:** Profile Link
-* 📧 **Email:** Contact Email
+* 💼 **LinkedIn:** [Hamid Jawaid](https://www.linkedin.com/in/hamid-jawaid-6a8b4617b)
+* 📧 **Email:** [hamid.jawed553@gmail.com](mailto:hamid.jawed553@gmail.com)
 * 🌐 **Portfolio:** Open for BI Analyst, Data Analyst, & Power BI Developer roles.
