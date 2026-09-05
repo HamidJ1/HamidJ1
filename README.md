@@ -70,7 +70,7 @@ Results-driven **Business Intelligence Analyst** with **6+ years of experience**
 * **Tech Stack:** Power BI, Advanced DAX, Power Query, Star Schema Data Modeling.
 
 <p align="center">
-  <img src="OPD Dashboard.png" width="100%" alt="OPD Services Performance Dashboard"/>
+  <img src="Indus Dashboard.jpg" width="100%" alt="OPD Services Performance Dashboard"/>
 </p>
 ---
 
