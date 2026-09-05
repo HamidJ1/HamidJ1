@@ -55,14 +55,19 @@ Results-driven **Business Intelligence Analyst** with **6+ years of experience**
   </p>
 </details>
 
-### 🏥 2. Centralized OPD KPI & Healthcare Analytics Dashboard
+### 📦 2. Inventory & Stock Health Analytics Dashboard
+* **Domain:** Supply Chain & Inventory Analytics
+* **Features:** Days of Inventory (DOI) indicators, Stock Health metrics, Distributor-wise Excess/Short analysis, and Group-wise Sales Contribution.
+* **Tech Stack:** Power BI, Advanced DAX, Power Query, Star Schema Data Modeling.
+
+<p align="center">
+  <img src="Inventory DB.png" width="100%" alt="Inventory Analytics Dashboard"/>
+</p>
+
+### 🏥 3. Centralized OPD KPI & Healthcare Analytics Dashboard
 * **Domain:** Healthcare Analytics
 * **Features:** Real-time patient arrival monitoring, appointment booking rate, and no-show analysis across medical specialties.
 * **Impact:** Consolidated 300,000+ patient records into an executive view, cutting manual reporting effort by 60%.
-
-### 📦 3. Inventory & Stock Health Analytics Dashboard
-* **Domain:** Supply Chain & Inventory
-* **Features:** Days of Inventory (DOI) indicators, stock health gauges, inventory risk classifications, and automated aging reports.
 
 ---
 
