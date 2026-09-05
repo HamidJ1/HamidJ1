@@ -54,6 +54,7 @@ Results-driven **Business Intelligence Analyst** with **6+ years of experience**
     <img src="Dashboard Overview 3 .mp4.png" width="100%" alt="Teams Overview"/>
   </p>
 </details>
+
 ### 🏥 2. Centralized OPD KPI & Healthcare Analytics Dashboard
 * **Domain:** Healthcare Analytics
 * **Features:** Real-time patient arrival monitoring, appointment booking rate, and no-show analysis across medical specialties.
