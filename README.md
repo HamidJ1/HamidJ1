@@ -56,7 +56,16 @@ Results-driven **Business Intelligence Analyst** with **6+ years of experience**
   </p>
 </details>
 
-### 📦 2. Inventory & Stock Health Analytics Dashboard
+### 💼 2. Field Force Performance Pulse & Sales Analytics Dashboard
+* **Domain:** Commercial & Pharmaceutical Sales Force Effectiveness (SFE)
+* **Features:** Sales achievement vs targets, discounts & returns tracking, territory coverage & reach (Top 10/50 customers), and daily sales trend analysis.
+* **Tech Stack:** Power BI, Advanced DAX, Power Query, Star Schema Data Modeling.
+
+<p align="center">
+  <img src="Field force Pulse.jpeg" width="100%" alt="Field Force Performance Pulse Dashboard"/>
+</p>
+
+### 📦 3. Inventory & Stock Health Analytics Dashboard
 * **Domain:** Supply Chain & Inventory Analytics
 * **Features:** Days of Inventory (DOI) indicators, Stock Health metrics, Distributor-wise Excess/Short analysis, and Group-wise Sales Contribution.
 * **Tech Stack:** Power BI, Advanced DAX, Power Query, Star Schema Data Modeling.
@@ -65,7 +74,7 @@ Results-driven **Business Intelligence Analyst** with **6+ years of experience**
   <img src="Inventory DB.png" width="100%" alt="Inventory Analytics Dashboard"/>
 </p>
 
-### 🏥 3. Centralized OPD KPI & Healthcare Analytics Dashboard
+### 🏥 4. Centralized OPD KPI & Healthcare Analytics Dashboard
 * **Domain:** Healthcare Analytics
 * **Features:** Patient arrival monitoring, appointment booking rate, HMIS capacity utilization, and specialty-wise no-show analysis.
 * **Impact:** Consolidated 300,000+ patient records into an executive view, cutting manual reporting effort by 60%.
