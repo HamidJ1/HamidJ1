@@ -39,7 +39,7 @@ Results-driven **Business Intelligence Analyst** with **6+ years of experience**
 * **Features:** Dynamic period selection, revenue tracking, field force sales performance, and discount variance analysis.
 * **Tech Stack:** Power BI, Advanced DAX, Star Schema, Power Query.
 * <p align="center">
-  <img src="Dashboard Overview Image.jpg" width="100%" alt="Commercial Performance Overview"/>
+  <img src="Dashboard Overview Image.png" width="100%" alt="Commercial Performance Overview"/>
 </p>
 
 <details>
@@ -47,14 +47,13 @@ Results-driven **Business Intelligence Analyst** with **6+ years of experience**
   <br/>
   <p align="center">
     <b>Product Performance & Revenue Tracker</b><br/>
-    <img src="Dashboard Overview 2 .mp4.jpg" width="100%" alt="Product Overview"/>
+    <img src="Dashboard Overview 2 .mp4.png" width="100%" alt="Product Overview"/>
   </p>
   <p align="center">
     <b>Team Performance & Revenue Analytics</b><br/>
-    <img src="Dashboard Overview 3 .mp4.jpg" width="100%" alt="Teams Overview"/>
+    <img src="Dashboard Overview 3 .mp4.png" width="100%" alt="Teams Overview"/>
   </p>
 </details>
-
 ### 🏥 2. Centralized OPD KPI & Healthcare Analytics Dashboard
 * **Domain:** Healthcare Analytics
 * **Features:** Real-time patient arrival monitoring, appointment booking rate, and no-show analysis across medical specialties.
